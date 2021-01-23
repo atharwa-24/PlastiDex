@@ -7,6 +7,11 @@
 
 ## Inspiration
 
+## Screenshots
+
+|![SignIn](app/src/main/res/raw/ss.jpg)|![Scan-classify](app/src/main/res/raw/ss1.jpg)|![Buttons](app/src/main/res/raw/ss5.jpg)| 
+|---|---|---|
+
 ## Overview 
 
 ## Summary
