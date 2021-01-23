@@ -1,0 +1,7 @@
+1 Polyethylene(PET)
+2 High Density Polyethylene(PE-HD)
+3 Polyvinylchloride(PVC)
+4 Low Density Polyethylene(PE-LD)
+5 Polypropylene(PP)
+6 Polystyrene(PS)
+7 Other Resins

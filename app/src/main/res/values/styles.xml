@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.ImageClassification" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#1c6434</item>
+        <item name="colorPrimaryDark">#40b93c</item>
+        <item name="colorAccent">@color/tfe_color_accent</item>
+    </style>
+
+</resources>
