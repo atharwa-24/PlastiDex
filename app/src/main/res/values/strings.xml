@@ -1,0 +1,26 @@
+<resources>
+    <string name="tfe_ic_app_name" translation_description="Image Classification demo app [CHAR_LIMIT=40]">PlastiDex</string>
+    <string name="tfe_ic_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="tfe_ic_gpu_quant_error" translation_description="Error regarding GPU support for Quant models[CHAR_LIMIT=60]">GPU does not yet supported quantized models.</string>
+    <string name="tfe_ic_model" translatable="false">Model:</string>
+    <string name="recycle_text_1" translation_description="Recycle1 Info">Polyethylene terephthalate(PET) are meant for single use. Plastic number 1 has a low risk of leaching and is considered safe.</string>
+    <string name="recycle_text_2" translation_description="Recycle2 Info">High-density polyethylene(HDPE) is long-lasting, extremely durable, and resistant to deterioration. High-density polyethylene is safe to be reused.</string>
+    <string name="recycle_text_3" translation_description="Recycle3 Info">Polyvinyl chloride(PVC) is lightweight and versatile. PVC is meant for single use. </string>
+    <string name="recycle_text_4" translation_description="Recycle4 Info">Low-density polyethylene(LDPE) is very flexible, durable, and lightweight. LDPE is safe to be reused.</string>
+    <string name="recycle_text_5" translation_description="Recycle5 Info">Polypropylene is safe to be reused.Polypropylene has a high melting point which makes it a popular choice for hot liquids.</string>
+    <string name="recycle_text_6" translation_description="Recycle6 Info">Polystyrene(PS) is lightweight, versatile, and cheap. Polystyrene plastics are meant for single use.</string>
+    <string name="recycle_text_7" translation_description="Recycle7 Info">Number 7 plastics are a group of various plastics that did not fall into groups 1-6. They vary in resin and chemical make-up.</string>
+    <string-array name="tfe_ic_models" translatable="false">
+        <item>Quantized_EfficientNet</item>
+        <item>Float_EfficientNet</item>
+        <item>Quantized_MobileNet</item>
+        <item>Float_MobileNet</item>
+    </string-array>
+
+    <string name="tfe_ic_device" translatable="false">Device:</string>
+    <string-array name="tfe_ic_devices" translatable="false">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+</resources>
