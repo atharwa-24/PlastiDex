@@ -147,49 +147,49 @@ public abstract class CameraActivity extends AppCompatActivity
     reImg1.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://melange.epecvitpune.in/"));
+        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://atharwa-24.github.io/PlastiDex-Website/#one"));
         startActivity(browseIntent);
       }
     });
     reImg2.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://melange.epecvitpune.in/"));
+        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://atharwa-24.github.io/PlastiDex-Website/#two"));
         startActivity(browseIntent);
       }
     });
     reImg3.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://melange.epecvitpune.in/"));
+        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://atharwa-24.github.io/PlastiDex-Website/#three"));
         startActivity(browseIntent);
       }
     });
     reImg4.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://melange.epecvitpune.in/"));
+        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://atharwa-24.github.io/PlastiDex-Website/#four"));
         startActivity(browseIntent);
       }
     });
     reImg5.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://melange.epecvitpune.in/"));
+        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://atharwa-24.github.io/PlastiDex-Website/#five"));
         startActivity(browseIntent);
       }
     });
     reImg6.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://melange.epecvitpune.in/"));
+        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://atharwa-24.github.io/PlastiDex-Website/#six"));
         startActivity(browseIntent);
       }
     });
     reImg7.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://melange.epecvitpune.in/"));
+        Intent browseIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://atharwa-24.github.io/PlastiDex-Website/#seven"));
         startActivity(browseIntent);
       }
     });
