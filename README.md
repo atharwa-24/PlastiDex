@@ -19,8 +19,9 @@ them identify a way to dispose it in a eco-friendly manner.
 | ![SignIn](app/src/main/res/raw/ss.jpg) | ![Scan-classify](app/src/main/res/raw/ss1.jpg) | ![Buttons](app/src/main/res/raw/ss5.jpg) |
 | -------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
 
-| ![SignIn](app/src/main/res/raw/ss6.jpg) | ![Scan-classify](app/src/main/res/raw/ss3.jpg) | 
-| -------------------------------------- | ---------------------------------------------- |
+| ![SignIn](app/src/main/res/raw/ss9.png) | ![Scan-classify](app/src/main/res/raw/ss6.jpg) | ![Buttons](app/src/main/res/raw/ss7.jpg) |
+| -------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+
 
 
 ## Overview
