@@ -58,7 +58,7 @@ ones we do not need.
             <br />
             <sub><b>Om Khairate</b></sub>
         </a>
-    </td>    
+    </td>
     <td align="center">
         <a href="https://github.com/DhawalKhapre">
             <img src="https://avatars.githubusercontent.com/u/67652904?s=400&u=cb77aa2cb2a51bd3dce857a81894c90d977f1dfa&v=4" width="100;" alt="Dhawal Khapre"/>
