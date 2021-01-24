@@ -8,20 +8,22 @@
 
 ## Inspiration
 
-Plastic. A useful polymer but harmful one at the same time. Plastic recycling is
-a must to conserve our environment and decrease the unethical disturbances
-caused due to plastic disposals. Our project aims to create a better
-understanding among people about which exact plastic are they using and to help
-them identify a way to dispose it in a eco-friendly manner.
+Almost 45% of the total plastic packaging get thrown or dumped into the Oceans,
+so we Decided to come up with the idea of making an Ecosystem so that we can
+classify the type of plastic and to create awareness regarding it and how to
+Recycle the Plastic waste. Our project aims to create a better understanding
+among people about which exact plastic are they using and to help them identify
+a way to dispose it in a eco-friendly manner. This will help in keeping our
+Communities and our Planet **Green & Clean**.
 
 ## Screenshots
 
 | ![SignIn](app/src/main/res/raw/ss.jpg) | ![Scan-classify](app/src/main/res/raw/ss1.jpg) | ![Buttons](app/src/main/res/raw/ss5.jpg) |
 | -------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
 
-| ![SignIn](app/src/main/res/raw/ss9.png) | ![Scan-classify](app/src/main/res/raw/ss6.jpg) | ![Buttons](app/src/main/res/raw/ss7.jpg) |
-| -------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 
+| ![SignIn](app/src/main/res/raw/ss9.png) | ![Scan-classify](app/src/main/res/raw/ss6.jpg) | ![Buttons](app/src/main/res/raw/ss7.jpg) |
+| --------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
 
 
 ## Overview
@@ -44,6 +46,29 @@ awareness amongst people and can be further turned into a competition of sorts
 with a leaderboard, promoting recycling in a fun way. Till the day we are
 completely plastic free, we can at least recycle and responsibly dispose off the
 ones we do not need.
+
+## Challenges we faced
+
+- We didn't have a large enough dataset and to overcome it we had to expand it
+  using it using our household items.
+- Integrating the tensorflowlite model into our android app was very tricky
+  because we used it for the first time.
+- Creating the ML model, the App, and the webpage in limited time was very
+  challenging.
+
+## Accomplishments we are Proud of
+
+- Creating a tesnorflowlite model for the first time.
+- Integrating the ML model, the app and the website.
+- Creating a project which is very helpful to the community.
+- Using **Google Cloud Platform, O-Auth 2.0** for the first time.
+
+## Future scope
+
+- Expanding our dataset by taking samples from the users.
+- Implementing a leaderboard system so users can compete with each other and
+  recycle more plastic.
+- Making the website more interactive.
 
 ## Contributors :sparkles:
 
