@@ -65,5 +65,13 @@ ones we do not need.
             <br />
             <sub><b>Dhawal Khapre</b></sub>
         </a>
-    </td></tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/tejas2806">
+            <img src="https://avatars.githubusercontent.com/u/65996914?s=460&v=4" width="100;" alt="Tejas Khairnar"/>
+            <br />
+            <sub><b>Tejas Khairnar</b></sub>
+        </a>
+    </td>
+    </tr>
 </table>
